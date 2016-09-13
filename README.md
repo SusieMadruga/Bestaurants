@@ -3,6 +3,8 @@ IGeometry Extending ArcObjects C#
 
 I have followed along with the following lesson titled "Extending ArcObjects (IGeometry) - 02 - The Document, The Map and The Layers" and translated the code into C# for all us 'C Sharpers'
 
+TIP: I am developing with ArcGIS 10.3.1 and Visual Studio 2013
+
 https://www.youtube.com/watch?v=sMxkNIy2fWc
 
 The above Youtube link with following description box:
