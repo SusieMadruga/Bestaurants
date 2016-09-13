@@ -1,0 +1,8 @@
+C:\Users\SMadruga\Documents\IGeometry\Bestaurants_CSharp\Bestaurants_CSharp\bin\Debug\Bestaurants_CSharp.dll
+C:\Users\SMadruga\Documents\IGeometry\Bestaurants_CSharp\Bestaurants_CSharp\bin\Debug\Bestaurants_CSharp.pdb
+C:\Users\SMadruga\Documents\IGeometry\Bestaurants_CSharp\Bestaurants_CSharp\bin\Debug\Bestaurants_CSharp.tlb
+C:\Users\SMadruga\Documents\IGeometry\Bestaurants_CSharp\Bestaurants_CSharp\obj\Debug\Bestaurants_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SMadruga\Documents\IGeometry\Bestaurants_CSharp\Bestaurants_CSharp\obj\Debug\Bestaurants_CSharp.dll
+C:\Users\SMadruga\Documents\IGeometry\Bestaurants_CSharp\Bestaurants_CSharp\obj\Debug\Bestaurants_CSharp.pdb
+C:\Users\SMadruga\Documents\IGeometry\Bestaurants_CSharp\Bestaurants_CSharp\obj\Debug\Bestaurants_CSharp.frmRestaurantsViewer.resources
+C:\Users\SMadruga\Documents\IGeometry\Bestaurants_CSharp\Bestaurants_CSharp\obj\Debug\Bestaurants_CSharp.csproj.GenerateResource.Cache
